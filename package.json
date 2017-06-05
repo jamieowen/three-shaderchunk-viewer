@@ -1,0 +1,11 @@
+{
+  "name": "three-shaderchunk-viewer",
+  "version": "0.0.0",
+  "description": "Viewer to browse three.js ShaderChunk code easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamie Owen <hello@jamieowen.com> (=)",
+  "license": "ISC"
+}
